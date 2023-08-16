@@ -1,6 +1,10 @@
 # get-method
 Webpage that uses the get variable to input to and search the database. (in this instance the database name is Getmethod and the table is Numbers)
 
+the main page.
+
+![image](https://github.com/Roaa74/get-method/assets/140811326/3206225d-2485-42af-91b3-18fdad4d64d8)
+
 
 This is the database.
 
